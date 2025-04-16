@@ -137,6 +137,5 @@ Every class and method has been built around Qt’s object model and event syste
 
 ---
 
-For visual walkthrough, see the presentation file `project3_presentation.pdf` and source code in the provided zip.
 
 > 🎓 Built as part of an academic investigation into open source game design.
