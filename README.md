@@ -200,8 +200,6 @@ This project is a faithful, animated recreation of the classic Pacman using C++ 
 
 ---
 
-For visual walkthrough, see the presentation file `project3_presentation.pdf` and source code in the provided zip.
-
 > 🎓 Built as part of an academic investigation into open source game design.
 
 
