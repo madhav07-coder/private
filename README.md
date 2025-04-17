@@ -24,7 +24,7 @@
  :-------------------------:|:-------------------------:|:-------------------------:|
  ![](https://res.cloudinary.com/dek4evg4t/image/upload/v1562267062/ezgif.com-video-to-gif.gif)      | ![](https://res.cloudinary.com/dek4evg4t/image/upload/v1562267184/ezgif.com-video-to-gif_1.gif)     |![](https://res.cloudinary.com/dek4evg4t/image/upload/v1562268476/ezgif.com-video-to-gif_2.gif)      |
  
-# 📘 Enhanced README: Pacman Game - Qt C++ Project
+# 📘 README: Pacman Game - Qt C++ Project
 
 ## 🎮 Game Overview
 This is a modern recreation of the classic 2D Pacman game using C++ and the Qt framework. It features animated characters, intelligent ghost AI, powerups, scoring, game over, and victory screens. The game uses a modular, object-oriented structure supported by Qt's event system and GUI capabilities.
