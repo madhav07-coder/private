@@ -206,6 +206,8 @@ This project is a faithful, animated recreation of the classic Pacman using C++ 
 
 ---
 
+## Link for the game : https://www.google.com/logos/2010/pacman10-i.html
+
 > 🎓 Built as part of an academic investigation into open source game design.
 
 
